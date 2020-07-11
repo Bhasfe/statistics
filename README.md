@@ -1,4 +1,4 @@
-# Application of Statistics in Python
+# Applications of Statistics in Python
 
 ## Description
 
@@ -8,4 +8,4 @@ I will try to keep this repository up-to-date.
 
 ## Content
 
-* Bootstrapping 
+* [Calculating Confidence Interval with Bootstrapping](/bootstrapping)
